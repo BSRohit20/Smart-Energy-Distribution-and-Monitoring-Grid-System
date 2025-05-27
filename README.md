@@ -93,6 +93,6 @@ The system features a responsive dashboard showing:
 └── requirements.txt # Python package dependencies
 ## 📚 References
 
-> Refer to the [Project Report (PDF)]() for detailed technical documentation, circuit designs, and references to academic sources.
+> Refer to the [Project Report (PDF)](https://github.com/BSRohit20/Smart-Energy-Distribution-and-Monitoring-Grid-System/blob/main/Smart%20Energy%20Distribution%20and%20Monitoring%20Grid%20System/Smart%20Energy%20Distribution%20and%20Monitoring%20Grid%20System.pdf) for detailed technical documentation, circuit designs, and references to academic sources.
 
 ---
