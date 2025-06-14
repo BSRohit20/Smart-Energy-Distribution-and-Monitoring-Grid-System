@@ -80,17 +80,6 @@ The system features a responsive dashboard showing:
 
 ---
 
-## 📁 Project Structure
-
- Smart-Energy-Distribution-and-Monitoring-Grid-System/
-│
-├── hardware/ # Circuit diagrams and component specs
-├── firmware/ # ESP32 code (C++ / Arduino IDE)
-├── ml-models/ # Jupyter notebooks for training & testing ML models
-├── dashboard/ # Dashboard configurations and front-end
-├── data/ # Sample datasets (CSV format)
-├── README.md # This documentation
-└── requirements.txt # Python package dependencies
 ## 📚 References
 
 > Refer to the [Project Report (PDF)](https://github.com/BSRohit20/Smart-Energy-Distribution-and-Monitoring-Grid-System/blob/main/Smart%20Energy%20Distribution%20and%20Monitoring%20Grid%20System/Smart%20Energy%20Distribution%20and%20Monitoring%20Grid%20System.pdf) for detailed technical documentation, circuit designs, and references to academic sources.
